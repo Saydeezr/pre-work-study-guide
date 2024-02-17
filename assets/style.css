@@ -6,9 +6,9 @@
 header,
 footer {
  width: 100%;
- height: 110px;
+ height: 150px;
  background-color: rgb(130, 130, 184);
- color: white;
+ color: rgb(255, 255, 255);
 }
 
 h1,
